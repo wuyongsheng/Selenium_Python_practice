@@ -1,15 +1,3 @@
----
-layout: post
-title: Selenium Python常用操作
-keywords: 'Selenium, Python'
-categories:
-  - Selenium
-  - 自动化测试
-  - Python
-tags: Selenium
-abbrlink: 52447
-date: 2019-01-26 23:19:47
----
 
 >  自2016年开始接触 web 自动化测试工具 selenium 以来，在网上查阅了很多相关的资料，购买了 selenium 的书籍和视频，在工作中也使用过 selenium ，目前已经能够熟练地使用 Python 及 Java 语言操作 selenium了。这篇笔记用来对 selenium 的一些基本操作进行一个总结。
 
